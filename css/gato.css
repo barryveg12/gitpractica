@@ -1,0 +1,36 @@
+table {
+    border-collapse: collapse;
+    margin: 0 auto;
+  }
+  
+  table td {
+    width: 50px;
+    height: 50px;
+    border: 1px solid black;
+    text-align: center;
+    font-size: 24px;
+    cursor: pointer;
+  }
+  
+  #message {
+    text-align: center;
+    margin-top: 20px;
+    font-weight: bold;
+    font-size: 20px;
+  }
+
+  .reiniciar {
+    text-align: center;
+    margin-top: 20px;
+    font-weight: bold;
+    font-size: 20px;
+  }
+
+  .centrar {
+    text-align: center;
+
+    font-weight: bold;
+    font-size: 15px;
+  }
+  
+  
